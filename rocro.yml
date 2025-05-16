@@ -1,6 +1,4 @@
 inspecode:
-  global:
-    timeout: 3h
 
   tools:
     eslint: default
