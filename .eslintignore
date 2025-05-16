@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Biome ignore patterns
+**/.rslib/*
+./tests/integration/**/*/src/*
+./tests/e2e/react-component/public/umd/*
+
+# Other common patterns
+coverage/
+.cache/

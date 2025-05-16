@@ -1,0 +1,6 @@
+inspecode: 
+  global:
+    timeout: 3h
+  tools:
+    eslint:
+      config-file: .eslintrc.js
